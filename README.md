@@ -901,6 +901,8 @@ This suite validates real MCP and A2A client flows against a running app.
 
 ### Alternative: run from source
 
+Run these commands from the root of your cloned OmniRoute repository.
+
 ```bash
 cp .env.example .env
 npm install
